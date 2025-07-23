@@ -59,3 +59,5 @@
    </td>
    </tr>
  </table>
+
+ ![Snake animation](https://github.com/PranjaliSehrawat15/PranjaliSehrawat15/blob/output/github-contribution-grid-snake.svg)
