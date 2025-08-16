@@ -40,8 +40,6 @@
    </tr> -->
  </table>
 
-  <h3 align="center">Visitor Count</h3>
- <a align="center" href="https://profile-counter.glitch.me/{PranjaliSehrawat15}/count.svg">
    
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=PranjaliSehrawat15&label=Profile%20views&color=0e75b6&style=flat" alt="PranjaliSehrawat15" /> </p>
 
